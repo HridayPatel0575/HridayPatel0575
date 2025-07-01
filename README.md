@@ -42,10 +42,5 @@ Welcome to my profile! I'm a student, part-time coder and full-time adventure se
 </p>
 
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hridaypatel&theme=dark&show_icons=true">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=hridaypatel&show_icons=true">
-  </picture>
-</div>
+
 
