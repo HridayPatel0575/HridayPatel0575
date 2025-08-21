@@ -41,6 +41,9 @@ Welcome to my profile! I'm a student, part-time coder and full-time adventure se
   </a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HridayPatel0575&hide_progress=true&theme=dark)
+
+
 
 
 
