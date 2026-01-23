@@ -57,14 +57,17 @@ Welcome to my profile! I'm a student, part-time coder and full-time adventure se
 ![YOLO](https://img.shields.io/badge/YOLO-%23000000.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 
+
 #### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-%2313ADC7.svg?style=for-the-badge&logo=dvc&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-%2300A9FF.svg?style=for-the-badge&logo=roboflow&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
