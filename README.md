@@ -67,6 +67,8 @@ Welcome to my profile! I'm a student, part-time coder and full-time adventure se
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-%2300A9FF.svg?style=for-the-badge&logo=roboflow&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-%2300B3A4.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+
 
 
 <p align="center">
