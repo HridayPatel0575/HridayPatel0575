@@ -46,6 +46,11 @@ Welcome to my profile! I'm a student, part-time coder and full-time adventure se
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-%23000000.svg?style=for-the-badge&logo=ultralytics&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23000000.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-%23000000.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 #### 📚 Libraries
 
@@ -76,11 +81,7 @@ Welcome to my profile! I'm a student, part-time coder and full-time adventure se
 </p>
 
 
- <div align=center>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HridayPatel0575&hide_progress=true&theme=tokyonight)
- 
- </div>
+
 
 
 
